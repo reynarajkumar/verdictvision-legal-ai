@@ -93,13 +93,11 @@ Screenshots below illustrate the system interface, retrieval results, and struct
 ```text
 verdictvision-legal-ai/
 ├── notebooks/
-│   └── verdictvision_rag_pipeline.ipynb
+│   └── verdictvision.ipynb
 ├── screenshots/
 │   ├── gradio_interface.png
 │   ├── retrieval_results.png
 │   └── irac_output.png
-├── docs/
-│   └── verdictvision_technical_report.pdf
 ├── README.md
 ├── requirements.txt
 └── LICENSE
