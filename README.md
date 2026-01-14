@@ -72,6 +72,9 @@ Screenshots below illustrate the system interface, retrieval results, and struct
 ### IRAC-Structured Output
 ![IRAC Output](screenshots/irac_output.png)
 
+### Case Prediction Output
+![Prediction Output](screenshots/prediction_output.png)
+
 ---
 ## Tech Stack
 
